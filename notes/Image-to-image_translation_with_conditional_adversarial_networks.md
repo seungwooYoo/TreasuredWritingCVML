@@ -32,7 +32,7 @@
         - Batch size 1 or 4 (no big differences)
 
 ### Experiments
--Test various tasks
+- Test various tasks
     - Semantic labels - photos (trained on Cityscapes)
     - Architectural labels - phots (CMP Facades dataset)
     - Map - aerial photo (Google Maps)
