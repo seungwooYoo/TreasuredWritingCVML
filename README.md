@@ -7,6 +7,7 @@
 1. [Xception: Deep Learning with Depthwise Separable Convolutions](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/xception_deep_learning_with_depthwise_separable_convolutions.md) 
 2. [Improved Techniques for Training GANs](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/improved_techniques_for_training_GANs.md)
 3. [Image-to-Image Translation With Conditional Adversarial Networks](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/Image-to-image_translation_with_conditional_adversarial_networks.md)
+4. [RefineNet Multi-path refinement networks with identity mappings for high resolution semantic segmentation](https://github.com/seungwooYoo/TreasuredWritingCVMLPapers/blob/master/notes/RefineNet_Multi_path_refinement_networks_with_identity_mappings_for_high_resolution_semantic_segmentation.md)
 
 -------------------
 ### Computer Vision Related 
